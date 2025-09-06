@@ -63,7 +63,7 @@ header .container > div {
 }
 .header-right {
     width: 50%;
-    background: url(/images/header_card.png) transparent no-repeat center;
+    background: url(images/header_card.png) transparent no-repeat center;
     background-size: contain;
 }
 
@@ -79,7 +79,7 @@ header .container > div {
     position: absolute;
     left: 0;
     top: 0;
-    background: url(/images/arrow-button.png) transparent no-repeat center;
+    background: url(images/arrow-button.png) transparent no-repeat center;
     background-size: contain;
     content: "";
     width: 50px;
